@@ -1,1 +1,13 @@
 2022-07-29 00:09:54,564 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-29 22:40:41,436 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-07-30 14:44:19,283 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-30 14:47:03,630 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: April09DalatStreetInvestmentBanking:April09DalatStreetInvestmentBanking:0.0.1-SNAPSHOT @ C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\pom.xml.
+2022-07-30 14:47:05,161 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 14:47:05,161 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\main\resources
+2022-07-30 14:47:05,164 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 14:47:05,164 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\test\resources
+2022-07-30 14:47:05,748 [Worker-25: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: April09DalatStreetInvestmentBanking:April09DalatStreetInvestmentBanking:0.0.1-SNAPSHOT @ C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\pom.xml.
+2022-07-30 14:47:07,213 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 14:47:07,214 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\main\resources
+2022-07-30 14:47:07,216 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 14:47:07,216 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\test\resources
