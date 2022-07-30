@@ -11,3 +11,11 @@
 2022-07-30 14:47:07,214 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\main\resources
 2022-07-30 14:47:07,216 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-30 14:47:07,216 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\test\resources
+2022-07-30 14:51:57,071 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 14:51:57,071 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\main\resources
+2022-07-30 14:51:57,073 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 14:51:57,073 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\test\resources
+2022-07-30 14:52:57,924 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 14:52:57,925 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\main\resources
+2022-07-30 14:52:57,928 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 14:52:57,928 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yoges\OneDrive\Desktop\April09DalatStreetInvestmentBanking\src\test\resources
